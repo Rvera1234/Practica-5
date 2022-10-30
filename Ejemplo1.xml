@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:C:\Users\vera\Desktop\9no - J\Servicios Web\Practica5-a181033/Ejemplo1.xsl"?>
+<distribuidores>
+  <agencias>
+    <agencia>ford</agencia>
+    <autos>fusion</autos>
+  </agencias>
+  <agencias>
+    <agencia>toyota</agencia>
+    <autos>camry</autos>
+  </agencias>
+  <agencias>
+    <agencia>chevrolet</agencia>
+    <autos>malibú</autos>
+  </agencias>
+</distribuidores>
